@@ -1,0 +1,30 @@
+{
+  "name": "JavaScriptAPIAutomation",
+  "version": "1.0.0",
+  "description": "JS API Automation",
+  "main": "user.copy.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramusayana/JavaScriptAPIAutomation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramusayana/JavaScriptAPIAutomation/issues"
+  },
+  "homepage": "https://github.com/ramusayana/JavaScriptAPIAutomation#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.17.10",
+    "@babel/core": "^7.18.0",
+    "@babel/node": "^7.17.10",
+    "@babel/preset-env": "^7.18.0",
+    "@babel/register": "^7.17.7",
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0",
+    "supertest": "^6.2.3"
+  }
+}
